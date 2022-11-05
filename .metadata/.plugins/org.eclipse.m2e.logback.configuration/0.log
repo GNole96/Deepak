@@ -1,0 +1,10 @@
+2022-11-05 18:25:23,937 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-11-05 18:26:00,371 [Worker-4: Creating project "Deepak"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.Deepak:Deepak:0.0.1-SNAPSHOT @ C:\Users\SAICOM\Desktop\SSAuto\Deepak\pom.xml.
+2022-11-05 18:26:00,921 [Worker-4: Creating project "Deepak"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Deepak/src/main/java
+2022-11-05 18:26:00,924 [Worker-4: Creating project "Deepak"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Deepak/src/main/resources
+2022-11-05 18:26:00,926 [Worker-4: Creating project "Deepak"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Deepak/src/test/java
+2022-11-05 18:26:00,926 [Worker-4: Creating project "Deepak"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Deepak/src/test/resources
+2022-11-05 18:26:03,155 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-11-05 18:26:03,165 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-05 18:26:03,171 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-11-05 18:26:03,174 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
